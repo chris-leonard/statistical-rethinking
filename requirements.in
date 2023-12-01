@@ -2,9 +2,11 @@
 pandas
 numpy
 matplotlib
+pymc
 scipy
 scikit-learn
 seaborn
+xarray
 
 # notebooks
 jupyter
