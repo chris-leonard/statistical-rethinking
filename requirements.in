@@ -1,7 +1,8 @@
 # pydata stack
-pandas
-numpy
+graphviz
 matplotlib
+numpy
+pandas
 pymc
 scipy
 scikit-learn
